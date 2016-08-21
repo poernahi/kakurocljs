@@ -2,6 +2,10 @@
 
 Kakuro solver that runs on your browser.
 
+## Demo
+
+https://www.entropyparticle.com/puzzle/kakurocljs
+
 ## Overview
 
 kakurocljs was written as an exercise in Clojurescript. User interface rendering
