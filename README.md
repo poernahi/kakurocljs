@@ -4,7 +4,7 @@ Kakuro solver that runs on your browser.
 
 ## Demo
 
-https://www.entropyparticle.com/puzzle/kakurocljs
+https://www.hxklabs.com/puzzle/kakurocljs
 
 ## Overview
 
